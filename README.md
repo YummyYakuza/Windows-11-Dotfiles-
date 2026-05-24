@@ -135,7 +135,7 @@ Cherry-pick what you need. Backup before applying.
 <br>  
 <ul>  
   <li>Install <a href="https://www.flowlauncher.com">Flow Launcher</a></li>  
-  <li><a href="FlowLauncher/"><code>FlowLauncher/</code></a></li>  
+  <li><a href="Flowlauncher/"><code>FlowLauncher/</code></a></li>  
 </ul>  
 </details>  
   
